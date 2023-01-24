@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+Hi, Im Nicholas Balint a computer science major at CSU Chico. 
 
 ## UX Team Project
 
