@@ -4,6 +4,7 @@ Hi, Im Nicholas Balint a computer science major at CSU Chico.
 
 ## UX Team Project
 
+Shoe Expert
 https://github.com/UsabilityEngineering/ShoeExpert
 
 ## UX Journal
