@@ -9,4 +9,5 @@ https://github.com/UsabilityEngineering/ShoeExpert
 
 ## UX Journal
 
-[Apple watch experience](j01/)
+[Journal 1](j01/)
+[Journal 2](j02/)
