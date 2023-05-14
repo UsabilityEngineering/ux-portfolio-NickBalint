@@ -1,6 +1,6 @@
 # Apple watch...
 
-The timer feature on the Apple Watch is a useful tool for users who need to track time for various tasks, such as cooking, exercising, or working. However, the current UI for the timer feature requires users to tap the screen to start and stop the timer, which can be an inconvenience for some users.
+The timer feature on the Apple Watch is a useful tool for users who need to track time for various tasks such as cooking, exercising, or working. However, the current UI for the timer feature requires users to tap the screen to start and stop the timer, which can be an inconvenience for some users.
 
 Tapping the screen to start and stop the timer requires users to look at the watch and find the right spot to tap, which can be a challenge if they are in the middle of an activity. It can also be difficult to tap the screen accurately if the user has sweaty or wet hands, which can affect the accuracy of the timer. By contrast, traditional stopwatches allow users to start and stop the timer using a button, which is located on the top or side of the device. This makes it easy to start and stop the timer quickly and accurately, without having to look at the device or fumble with tapping the screen.
 
